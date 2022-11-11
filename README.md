@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, Django and Computer Science on a Open Source Curse**
 
-- 👨‍💻 All of my projects are available at [www.maelcar.com](www.maelcar.com)
+- 👨‍💻 Some of my projects are available at [www.maelcar.com](www.maelcar.com)
 
 - 💬 Ask me about **React.JS, Node.JS**
 
